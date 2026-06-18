@@ -1,4 +1,4 @@
-# SonarQube 社群版 (Community Build) 10,000+ 全量問題智慧匯出腳本 (Test 專案專用)
+# SonarQube 社群版 (Community Build) 問題智慧匯出腳本
 ## 【解決問題】
 * 徹底解決單一類別（如 MAJOR - CODE_SMELL 達 12,214 筆）超出 SonarQube 官方 10,000 筆深度分頁限制的問題。
 * 修正 SECURITY_HOTSPOT 造成的 API 400 (Bad Request) 報錯。
